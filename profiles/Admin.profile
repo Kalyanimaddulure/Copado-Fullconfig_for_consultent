@@ -6,6 +6,11 @@
         <field>Contact.Checking_Profile_Permissions__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Contact.Secound_Verify__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
